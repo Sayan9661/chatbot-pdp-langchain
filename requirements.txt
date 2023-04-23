@@ -1,0 +1,6 @@
+chromadb
+langchain
+dotenv
+logging
+streamlit
+OpenAI
