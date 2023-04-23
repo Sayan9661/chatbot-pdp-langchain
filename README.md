@@ -8,7 +8,7 @@ This is the script for initializing the langchain siteloader which is a document
 
 #### main.py
 
-This will run a streamlit app where we can ask the chatbot question
+This will run a streamlit app where we can ask the chatbot question<br>
 command to run the main.py: streamlit run main.py
 
 You will also need to provide a OpenAI API Key in a .env file in the format: OPEN_AI_KEY=<your-key>
