@@ -3,3 +3,4 @@ duckdb
 langchain
 streamlit
 openai
+tiktoken
