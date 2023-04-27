@@ -72,6 +72,9 @@ with st.container():
 
     if input_text:
         st.write(f'Your question: {input_text}')
-        st.write("chatbot's response:")
         chain = load_chain()
-        st.write(chain({"question": input_text}, return_only_outputs=True))
+        response=chain({"question": input_text}, return_only_outputs=True)
+        st.write("chatbot's response:")
+        st.write(response["answer"])
+        st.write("chatbot's source for this answer:")
+        st.write(response["sources"])
