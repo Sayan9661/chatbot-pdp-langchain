@@ -1,4 +1,4 @@
-## this is the project for instalily 2nd round interview
+## this is an automated website scrapper and a chatbot which can answer questions based on scraped data.
 
 ### Structure
 
