@@ -1,4 +1,7 @@
-## this is an automated website scrapper and a chatbot which can answer questions based on scraped data.
+## Automated website scrapper and a chatbot
+### Decription
+This is a automated website scrapper and a chatbot powered with OPENAI's LLM based on langchain.<br>
+First we scrape data using langchain siteloader. Then index and store the text data in the form of word embeddings for OPENAI in a vectorDB, in this case ChromaDB. We can then use this DataBase along with OPENAI LLM to answer questions based on the data. All of this is done with the help of langchain chains/agents. The LLM and vectorDB can be swapped out as per requirements.  
 
 ### Structure
 
