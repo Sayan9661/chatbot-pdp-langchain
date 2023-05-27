@@ -1,4 +1,4 @@
-## Automated website scrapper and a chatbot (Langchain + OPENAI + ChromaDB) :robot:
+## Automated website scrapper and a chatbot (Langchain + OPENAI + ChromaDB + Streamlit) :robot:
 ### Decription
 This is a automated website scrapper and a chatbot powered with OPENAI's LLM based on langchain.<br>
 First we scrape data using langchain siteloader. :pick: <br> 
