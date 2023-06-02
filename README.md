@@ -16,3 +16,5 @@ This will run a streamlit app where we can ask the chatbot question<br>
 command to run the main.py: streamlit run main.py
 
 :warning:You will also need to provide a OpenAI API Key in a :gear: .env file in the format: "OPEN_AI_KEY=put-your-key-here" and in data-ingestion.py you will have to provide the url for the sitemap xml you want to scrape.
+
+![alt text](https://github.com/Sayan9661/chatbot-pdp-langchain/main/chatbot-website.jpg?raw=true)
