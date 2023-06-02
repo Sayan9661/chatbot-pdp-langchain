@@ -21,7 +21,7 @@ def get_documents():
     # import nest_asyncio
     # nest_asyncio.apply()
     loader = SitemapLoader(
-        web_path="https://www.jcrew.com/sitemap-wex/sitemap-pdp1.xml"
+        web_path="Enter the sitemap xml here"
     )
 
     loader.requests_per_second = 2
