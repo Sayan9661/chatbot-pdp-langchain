@@ -17,4 +17,4 @@ command to run the main.py: streamlit run main.py
 
 :warning:You will also need to provide a OpenAI API Key in a :gear: .env file in the format: "OPEN_AI_KEY=put-your-key-here" and in data-ingestion.py you will have to provide the url for the sitemap xml you want to scrape.
 
-![alt text](https://github.com/Sayan9661/chatbot-pdp-langchain/main/chatbot-website.jpg?raw=true)
+![alt text](https://github.com/Sayan9661/chatbot-pdp-langchain/blob/main/chatbot-website.jpg?raw=true)
